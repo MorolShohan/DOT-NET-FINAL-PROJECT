@@ -1,0 +1,1380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET final assignment\\Copied File For safety\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|d:\\dot net final assignment\\copied file for safety\\courseproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\rengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\rengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\adminstudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\adminstudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\postcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\postcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\studentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\iasrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iasrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\adminstupostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\adminstupostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\controllers\\studentmsgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\studentmsgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\srepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\srepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\202405141706340_shohan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405141706340_shohan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\instructorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\instructorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\inrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\inrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\sauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\sauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\studentpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\studentpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\studentpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\studentcommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentcommentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\studentmsgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentmsgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\replymgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\replymgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\umgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\umgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\studentmgsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentmgsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\imrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\imrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\mgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\mgsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\studentmgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\studentmgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\ordercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\ordercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\scorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\scorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\studentcourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentcourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\sloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\sloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\postcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\postcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\studentcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\studentpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\studentcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\studentcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\auth\\aloged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\auth\\aloged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\202405141113384_intructordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405141113384_intructordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\Copied File For safety\\courseproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\mearningrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\mearningrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\dcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\dcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\admincoursestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\admincoursestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\dtos\\logoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\adminagerangeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\adminagerangeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\services\\adminauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\adminauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\202405140709414_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405140709414_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\202404281917362_databaseupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202404281917362_databaseupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\migrations\\202404261255348_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202404261255348_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\dal\\interface\\sauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\sauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\Copied File For safety\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E3E938-08CC-4624-A7D7-EABA83A9060F}|Solution Items{D6E3E938-08CC-4624-A7D7-EABA83A9060F}|D:\\DOT NET final assignment\\Copied File For safety\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D6E3E938-08CC-4624-A7D7-EABA83A9060F}|Solution Items{D6E3E938-08CC-4624-A7D7-EABA83A9060F}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RengeDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\RengeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RengeDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\RengeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RengeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:35:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:15:51.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:12:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:28:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentPostDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentPostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentPostDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentPostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentPostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:35:00.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AdminService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AdminService.cs",
+              "RelativeToolTip": "BLL\\Services\\AdminService.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAiwLkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:23:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:09:34.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IASRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IASRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IASRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IASRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IASRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:19:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:29:59.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAcwEUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:01:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:21:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CourseRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CourseRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:32:15.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AdminRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AdminRepo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:08:58.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminStudentRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminStudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AdminStudentRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminStudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AdminStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:18:27.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:28:42.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostCountDto.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\PostCountDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PostCountDto.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\PostCountDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PostCountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:13:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\AdminDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AdminDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\AdminDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AdminDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:25:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminStuPostRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminStuPostRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AdminStuPostRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\AdminStuPostRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AdminStuPostRepo.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:18:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\SRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\SRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:24:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentMsgController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\StudentMsgController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\StudentMsgController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Controllers\\StudentMsgController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\StudentMsgController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:13:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:16:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:12:35.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InstructorRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\InstructorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\InstructorRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\InstructorRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\InstructorRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:26:49.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\InstructorService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\InstructorService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\InstructorService.cs",
+              "RelativeToolTip": "BLL\\Services\\InstructorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\SAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SAuthService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\SAuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\SAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:18:37.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\InRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\InRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\InRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\InRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:14:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202405141706340_shohan.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405141706340_shohan.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405141706340_shohan.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405141706340_shohan.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405141706340_shohan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:06:38.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CourseService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\CourseService.cs",
+              "RelativeToolTip": "BLL\\Services\\CourseService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwEkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:18:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentPostRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentPostRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentPostRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentPostRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentPostRepo.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:29:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EContext.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\EContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EContext.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\EContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:41:43.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentPost.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentPost.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\StudentPost.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentPost.cs",
+              "RelativeToolTip": "DAL\\Models\\StudentPost.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:00.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentCommentRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentCommentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentCommentRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentCommentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentCommentRepo.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAcwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:24:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentMsgService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentMsgService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentMsgService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentMsgService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentMsgService.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:14:00.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentCourseService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentCourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentCourseService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentCourseService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentCourseService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:06:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReplyMgsDto.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\ReplyMgsDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ReplyMgsDto.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\ReplyMgsDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ReplyMgsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:22:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UMgsDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\UMgsDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UMgsDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\UMgsDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UMgsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentMgsRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentMgsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentMgsRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentMgsRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentMgsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:19:41.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IMRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IMRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IMRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IMRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:18:43.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:21:30.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MgsDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\MgsDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MgsDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\MgsDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MgsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:14:42.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentMgs.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentMgs.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\StudentMgs.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentMgs.cs",
+              "RelativeToolTip": "DAL\\Models\\StudentMgs.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:16:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderCourseDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\OrderCourseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderCourseDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\OrderCourseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderCourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:10:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SCoRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SCoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\SCoRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SCoRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\SCoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:09:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Auth\\Logged.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Auth\\Logged.cs",
+              "RelativeToolTip": "CourseProject\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:05:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentCourseRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentCourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentCourseRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\StudentCourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentCourseRepo.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:08:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StudentCourseDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentCourseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentCourseDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentCourseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentCourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:07:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SLoginModel.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\SLoginModel.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SLoginModel.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\SLoginModel.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:04:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:33:10.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StudentPostService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentPostService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentPostService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\StudentPostService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentPostService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:34:22.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentComment.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentComment.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\StudentComment.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\StudentComment.cs",
+              "RelativeToolTip": "DAL\\Models\\StudentComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StudentCommentDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentCommentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentCommentDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\StudentCommentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentCommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:40:40.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PostCommentDto.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\PostCommentDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PostCommentDto.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\PostCommentDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PostCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:41:15.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ALoged.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Auth\\ALoged.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Auth\\ALoged.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Auth\\ALoged.cs",
+              "RelativeToolTip": "CourseProject\\Auth\\ALoged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:17:21.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:03:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:07:16.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Teacher.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Teacher.cs",
+              "RelativeToolTip": "DAL\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:53:29.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Student.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:35:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "loginModel.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\loginModel.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\loginModel.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\loginModel.cs",
+              "RelativeToolTip": "BLL\\DTOs\\loginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:07:54.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IAuth.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interface\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:59:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "mEarningRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\mEarningRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\mEarningRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\mEarningRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\mEarningRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:38:59.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "cb4a8fc6-efe7-424a-b611-23adf22b568e.000006|",
+              "WhenOpened": "2024-05-14T10:25:19.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "202405141113384_IntructorDB.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405141113384_IntructorDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405141113384_IntructorDB.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405141113384_IntructorDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405141113384_IntructorDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:13:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Course.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Course.cs",
+              "RelativeToolTip": "DAL\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:29:04.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Dcourse.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\Dcourse.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\Dcourse.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\Dcourse.cs",
+              "RelativeToolTip": "DAL\\Interface\\Dcourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:37:43.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:34:40.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Web.config",
+              "RelativeDocumentMoniker": "CourseProject\\Web.config",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\CourseProject\\Web.config",
+              "RelativeToolTip": "CourseProject\\Web.config",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-26T12:43:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminCourseStatistics.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\AdminCourseStatistics.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdminCourseStatistics.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\AdminCourseStatistics.cs",
+              "RelativeToolTip": "DAL\\Models\\AdminCourseStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:29:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CourseDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:19:06.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "logoutModel.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\logoutModel.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\logoutModel.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\DTOs\\logoutModel.cs",
+              "RelativeToolTip": "BLL\\DTOs\\logoutModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:17:16.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AdminAgeRangeResult.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\AdminAgeRangeResult.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdminAgeRangeResult.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\AdminAgeRangeResult.cs",
+              "RelativeToolTip": "DAL\\Models\\AdminAgeRangeResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:28:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Admin.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Admin.cs",
+              "RelativeToolTip": "DAL\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:21:04.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:06:11.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Models\\Token.cs",
+              "RelativeToolTip": "DAL\\Models\\Token.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:34:11.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "202405140709414_TokenDB.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:09:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:50:42.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:49:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "202404281917362_databaseupdated.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:17:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "202404261255348_initDB.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202404261255348_initDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202404261255348_initDB.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Migrations\\202404261255348_initDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202404261255348_initDB.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:55:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SAuth.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\SAuth.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\DAL\\Interface\\SAuth.cs",
+              "RelativeToolTip": "DAL\\Interface\\SAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:09:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T10:09:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "StudentMgsController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\Copied File For safety\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:17:11.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
